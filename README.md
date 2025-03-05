@@ -1,4 +1,3 @@
-# Punith H K #
 ## Hi Welcome to my world ##
 
 #### I am software engineer with a passion to keep building, contributing to the tech community, my vigour to code is never going to end no matter AI tools come the Programmer quest is never ending ####
