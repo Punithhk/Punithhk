@@ -13,6 +13,10 @@ a = "I am a software engineer"
 while time:
   print(a)
 ```
+
+```javascript
+setInterval(Live_to_code = () =>{console.log('Coding for life')},60000);
+```
 <!--
 **Punithhk/Punithhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
