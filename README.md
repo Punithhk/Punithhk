@@ -7,7 +7,12 @@
 
 *If you want to colloborate on interesting technical work please ping me at punithhkp960@gmail.com will be more than happy* 
 
-
+```python
+import time
+a = "I am a software engineer"
+while time:
+  print(a)
+```
 <!--
 **Punithhk/Punithhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
