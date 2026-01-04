@@ -25,6 +25,6 @@ setInterval(Live_to_code = () =>{console.log('Coding for life')},60000);
 - 🤔 I’m looking for help with -  
 - 💬 Ask me about - Motivation, Tech Ideas
 - 📫 How to reach me: drop a mail at punithhkp960@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He
+- ⚡ Fun fact: Am happy to do work but more to happy do debugging work.
 -->
