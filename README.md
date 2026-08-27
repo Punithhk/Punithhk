@@ -2,6 +2,8 @@
 
 #### I am software engineer with a passion to keep building, contributing to the tech community, my vigour to code the Programmer quest is never ending ####
 
+- Currently working as Automation engineer for Cybersecurity tools 😎
+
 - I worked as a SRE 🧐 for a financial firm from US. 
 - I crazy 😍 about Javascript, React, Nodejs, Python
 
