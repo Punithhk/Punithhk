@@ -5,7 +5,7 @@
 - Currently working as Automation engineer for Cybersecurity tools 😎
 
 - I worked as a SRE 🧐 for a financial firm from US. 
-- I crazy 😍 about Javascript, React, Nodejs, Python
+- I crazy 😍 about Reactjs, Nodejs, Python
 
 *If you want to colloborate on interesting technical work please ping me at punithhkp960@gmail.com will be more than happy* 
 
